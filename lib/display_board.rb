@@ -5,7 +5,4 @@ board = ["#{word}","#{word}","#{word}","#{word}","#{word}","#{word}","#{word}"
 ,"#{word}","#{word}"]
 
 
-end 
-
-
-
+end
